@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - Passionate full-stack developer
-- Book Enthusiast
+- Book enthusiast
 - Currently learning game development
 
 <br>
