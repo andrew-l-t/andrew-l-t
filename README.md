@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- Passionate Full-Stack developer
+- Passionate full-stack developer
 - Book Enthusiast
 - Currently learning game development
 
